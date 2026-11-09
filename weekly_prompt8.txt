@@ -6,3 +6,20 @@ internet. Cite examples that you find interesting.
 
 
 Answer:
+Colormaps are used to visually distinguish between differences 
+in data points. They can be used to plot 
+points that are keyed in from research (like amount of rainfall 
+during a period of time or specifically looking at water buildup 
+levels in specific spots) and colormap them to form a 
+color coded map and key showing which color and hue equates to what 
+value. Multiple of these maps can then be looked at to distinguish 
+between areas that have consistent heavy rainfall to plan for  
+sturdy infrastructure and evac plans, among other things. 
+
+My understanding didn't quite click while I was reading through 
+the book's examples, but I realized after doing a little research 
+that these look very similar to radar maps. Seeing them in that way 
+helped solidify their usefulness. They are very important for research 
+and their ability to quickly map data in a way that is easily understandable. 
+And they have the ability to parse through very large amounts of data with 
+easy control over style. 
