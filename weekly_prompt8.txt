@@ -1,0 +1,8 @@
+Question:
+Colormaps are used extensively with scientific data. 
+How are these applied when visualizing measurable phenomenon 
+like temperatures or rainfall? Reference your textbook or the 
+internet. Cite examples that you find interesting.
+
+
+Answer:
